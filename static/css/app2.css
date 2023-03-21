@@ -1,0 +1,20 @@
+h1
+{
+    color: black;
+}
+h1:hover
+{
+    color: rgb(46, 116, 95);
+}
+body
+{
+    background:rgb(172, 167, 167);
+}
+body:hover
+{
+    background: rgb(160, 161, 216);
+}
+a{
+    text-decoration: none;
+    padding: 10px 100px;
+}

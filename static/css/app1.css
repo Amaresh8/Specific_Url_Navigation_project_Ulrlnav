@@ -1,0 +1,20 @@
+h1
+{
+    color: black;
+}
+h1:hover
+{
+    color: yellow;
+}
+body
+{
+    background:white;
+}
+body:hover
+{
+    background: palevioletred;
+}
+a{
+    text-decoration: none;
+    padding: 10px 100px;
+}
